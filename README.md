@@ -1,6 +1,6 @@
 # Angular_Project
 
-Exercicios em Angular,C#,NetCore
+Exercicios em Angular
 
 - Site Estatico(Meu Site[Html5,Css3,Bootstrap,Responsividade])
 
